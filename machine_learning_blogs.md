@@ -1,3 +1,4 @@
 - Understanding LSTM Networks: http://www.jianshu.com/p/9dc9f41f0b29
 - [译] 理解 LSTM 网络: http://www.jianshu.com/p/9dc9f41f0b29
 - 反向传播：整体描述: https://hit-scir.gitbooks.io/neural-networks-and-deep-learning-zh_cn/content/chap2/c2s9.html
+- Neural Networks and Deep Learning is a free online book: http://neuralnetworksanddeeplearning.com/
